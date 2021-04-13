@@ -19,7 +19,7 @@
     "bittorrent-protocol": "^1.5.7",
     "bittorrent-swarm": "^5.0.2",
     "chalk": "^1.0.0",
-    "elliptic": "^3.0.3",
+    "elliptic": "6.5.3",
     "glob": "^5.0.6",
     "hat": "^0.0.3",
     "inherits": "^2.0.1",
@@ -28,7 +28,7 @@
     "rc": "^1.0.3",
     "ut_gittorrent": "^0.1.0",
     "ut_metadata": "^2.7.3",
-    "webtorrent": "0.103.0",
+    "webtorrent": "^0.48.0",
     "zero-fill": "^2.2.1"
   },
   "devDependencies": {
